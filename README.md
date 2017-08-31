@@ -1,7 +1,8 @@
 # playa-vista
 
 Scaled service and UI to support contact management, ordering and distribution
-Core components include:
+
+Core components:
 
 React
 Node.js
@@ -10,5 +11,6 @@ NGINX
 Cassandra
 
 Languages written:
-Javascript and SCALA
+
+JavaScript and SCALA
 
