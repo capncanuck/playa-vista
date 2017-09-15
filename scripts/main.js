@@ -6,7 +6,7 @@ var theButton = document.querySelector('button');
 function setUserName() {
 	var userName = prompt('Please enter your name.');
 	localStorage.setItem('name',userName);
-	theHeader.textContent = '¡Hola  ' + userName;
+	theHeader.textContent = '¡Hola  ' + userName + '!';
 }
 
 if(!localStorage.getItem('name')) {
